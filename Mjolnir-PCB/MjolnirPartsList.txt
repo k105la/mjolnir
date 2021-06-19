@@ -1,0 +1,10 @@
+# mjolnir part's list (Rev A)
+ATtiny85-20PU
+DIP Sockets Solder Tail - 8-Pin
+USB-A - MOLEX_480371000
+Reg Linear 5V - L78M05ABDT-TR
+Zener Diode - BZT52C3V6-E3-08
+Diode - 1N4148W-7-F
+SMD LED 0805
+R0805
+C0805
